@@ -1,2 +1,2 @@
-# customer_segmentation-
+# Customer Segmentation 
 In this project, Hierarchical Clustering was applied to analyze customer buying patterns, using K-means clustering for segmentation. The time intervals between buying instances were identified, providing crucial insights into customer behavior. By effectively managing outliers through IQR, the analysis yielded refined and reliable results. This outcome-driven approach empowers businesses with tailored marketing strategies, streamlined inventory management, and informed decision-making for sustainable growth.
